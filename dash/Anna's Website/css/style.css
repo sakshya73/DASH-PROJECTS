@@ -1,0 +1,18 @@
+body{
+      background:url("../images/anna-bg.png");
+      background-size:cover;
+      text-align:center;
+      background-position:center;
+    }
+    p{
+      font-size:22px;
+    }
+    input{
+      border:0;
+      padding:10px;
+      font-size:18px;
+    }
+    input[type="submit"]{
+      color:white;
+      background:red;
+    }
